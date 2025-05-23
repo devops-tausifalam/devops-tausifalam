@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/devops-tausifalam/Hooks" target="_blank" alt="visit the repo">"Hooks - a FOSS link in bio tool"</a><br>👯 I’m looking to collaborate on <a href="https://github.com/devops-tausifalam/Hooks" target="_blank" alt="visit the repo">"Hooks - a FOSS link in bio tool"</a><br>🌱 I’m currently learning "React"<br>💬 Ask me about anything, I would love to answer
+I build great softwares
 
 
 ## 🌐 Socials:
